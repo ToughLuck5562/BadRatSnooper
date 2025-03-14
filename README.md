@@ -24,3 +24,6 @@
 
 > Discord warnings **(Warns when a new user is connected, and when someone is acessing the dashboard of the site)**
 
+> Self Destruct **(Completely removes the entirety of the file and its existence.)**
+
+
