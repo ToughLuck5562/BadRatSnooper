@@ -1,4 +1,4 @@
-import requests
+import requests, asynico, threading
 
 class Main:
 
@@ -12,6 +12,11 @@ class Main:
       pass
     except:
       # uninstall logic - remove from entire computer
+      pass
+  def Uninstall(self):
+    try:
+      pass
+    except: 
       pass
   def ViewCommand(self);
     try:
