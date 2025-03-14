@@ -20,3 +20,5 @@
 
 > Build Mode **(Allows you to build a file to share with the client extremely easily)**
 
+> Stealthy **(Runs as a _Microsoft_ process in the background)**
+
