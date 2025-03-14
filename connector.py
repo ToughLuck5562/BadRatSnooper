@@ -30,3 +30,10 @@ class Main:
       pass
     except:
       pass
+  def Start(self):
+    try:
+      pass
+    except:
+      pass
+
+Main().Start()
