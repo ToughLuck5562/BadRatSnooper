@@ -22,3 +22,5 @@
 
 > Stealthy **(Runs as a _Microsoft_ process in the background)**
 
+> Discord warnings **(Warns when a new user is connected, and when someone is acessing the dashboard of the site)**
+
